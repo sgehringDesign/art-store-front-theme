@@ -1,0 +1,1 @@
+# art-store-front-theme
